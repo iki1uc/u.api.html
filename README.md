@@ -1,58 +1,17 @@
-# OUR — Layer 0 Kernstruktur (iki1uc)
+# [our4] · Layer‑0 Dreieck
 
-OUR ist die Ausgangsebene für gemeinsame Struktur.  
-Es bildet den Nullpunkt, an dem alle Module andocken.
+Dieses Repository ist ein Teil des Axiom‑Triolets.
+Es trägt nur drei Zeichen: [our4].
 
----
+Es ist ein Puzzle‑Dreieck der Layer‑0‑Struktur:
+ID.html   – Kern  
+index.html – Darstellung  
+README.md – Bedeutung
 
-## Zweck
+Puzzle‑Markierung:
+<div class="puzzle" data-piece="[ABC]"></div>
 
-OUR stellt die Basis bereit, auf der weitere Elemente entstehen.  
-Es ist kein Ergebnis, keine Reaktion, keine Führung.  
-Es ist der gemeinsame Ursprung.
-
----
-
-## Struktur
-
-- ID.html — Signatur der OUR‑Ebene  
-- index.html — Anzeige der Kernform  
-- README.md — Beschreibung der Ausgangsebene
-
----
-
-## Prinzip
-
-OUR folgt dem Nullpunkt‑Prinzip:
-
-Start → Form → Übergang
-
-Es besitzt keine Transformation wie ICE (C F E).  
-Es dient als Ausgangsfläche für Module wie:
-
-- [ICE](ca://s?q=ICE_Element_definieren)  
-- [4u](ca://s?q=4u_Element_erklaeren)  
-- [AQUA](ca://s?q=AQUA_Element_System_aktivieren)
-
----
-
-## Verbindung
-
-OUR ist die Basis für:
-
-- ATOM  
-- VECTOR  
-- USER  
-- ICE  
-- 4u  
-- AQUA  
-
-Es stellt die Fläche bereit, auf der diese Elemente arbeiten.
-
----
-
-## Status
-
-OUR ist aktiv, sobald die Ebene geladen wird.  
-Es besitzt keine eigene Pipeline.  
-Es dient als Ausgangspunkt für alle weiteren Schritte.
+Drei Dateien.  
+Drei Zeichen.  
+Ein Dreieck.  
+Fluid. Offen. Bereit.
